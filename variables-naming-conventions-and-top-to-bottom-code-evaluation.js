@@ -32,4 +32,3 @@ let cost = 20;
 let text = shopper + " bought " + numberOfItemsBought +  item + " from " + nameOfShop + " for $" + cost + ".";
 
 console.log(text);
-
